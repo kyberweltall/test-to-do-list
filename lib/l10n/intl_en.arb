@@ -1,0 +1,19 @@
+{
+    "title" : "To-Do List",
+
+    "taskList_appBar_title" : "To-Do's",
+    "taskList_element_done" : "Done",
+    "taskList_element_notDone" : "Not done",
+    "taskList_element_remove" : "Remove",
+
+    "addTask_appBar_title" : "New Task",
+    "addTask_button_add" : "Add",
+    "addTask_input_title" : "Title",
+    "addTask_input_title_notValidate" : "Required!",
+    "addTask_input_desription" : "Description",
+    "addTask_input_priority" : "Priority",
+    "addTask_input_priority_critical" : "Critical",
+    "addTask_input_priority_urgent" : "Urgent",
+    "addTask_input_priority_normal" : "Normal",
+    "addTask_input_priority_optional" : "Оptional"
+}
